@@ -1,1 +1,1 @@
-# smaart_farm_android_project
+# smart_farm_android_project
