@@ -1,1 +1,1 @@
-# iot_cloud_project
+# smaart_farm_android_project
