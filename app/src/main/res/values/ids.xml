@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="reported_humidity" type="id" />
+    <item name="reported_temperature" type="id" />
+    <item name="reported_sm" type="id" />
+    <item name="reported_light" type="id" />
+    <item name="desired_humidity" type="id" />
+    <item name="desired_sm" type="id" />
+    <item name="desired_light" type="id" />
+    <item name="edit_humidity" type="id" />
+    <item name="edit_sm" type="id" />
+</resources>
